@@ -17,3 +17,7 @@ add functions - process.nextTick(), setImmediate(), setTimeout(), setInterval(),
 Main program is simply a function passed to the event loop
 
 After setting interval it can be cleared so everything will terminate neatly 
+
+Callback Hell:
+
+Uses synchronous functions...
