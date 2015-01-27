@@ -13,3 +13,5 @@ Event Loop - for GUI programs "If user click here, do this"
 add functions - process.nextTick(), setImmediate(), setTimeout(), setInterval(), etc.
 
 Main program is simply a function passed to the event loop
+
+After setting interval it can be cleared so everything will terminate neatly 
