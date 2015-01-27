@@ -4,6 +4,8 @@ lecture notes 5
 
 http provides a function called createServer()
 
+Node is mainly used to write servers/services
+
 First class functions - anonymous function that's created in place
 
 console.log() is the printf() of the Javascript world.
